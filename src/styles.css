@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  cursor: pointer;
+}
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
